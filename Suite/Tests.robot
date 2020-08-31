@@ -3,7 +3,7 @@ Library  RequestsLibrary
 Library  Collections
 Resource  ../Resources/Keywords.robot
 *** Test Cases ***
-Google map places
+Map Places
     Google Map
 
 
